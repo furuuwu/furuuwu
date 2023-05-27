@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://furuuwu.github.io" target="_blank">uwu</a>
+
+
 <!--
 **furuuwu/furuuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
